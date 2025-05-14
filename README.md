@@ -6,12 +6,12 @@
 ### 1. Clone Repository
 
 ```bash
-https://github.com/ytbiilly/0G-Labs-Testnet-Auto-Tx-Bot.git
+https://github.com/Rifkichrl/0glabs_autoTx
 ```
 
 ### 2. Go To Bot Directory
 ```
-cd 0G-Labs-Testnet-Auto-Tx-Bot
+cd 0glabs_autoTx
 ```
 
 ### 3. Instal Dependency
